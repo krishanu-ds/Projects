@@ -1,1 +1,22 @@
+This is the data of Income evaluation for different countries. 
+Based on the available features, build a model to predict whether a person's income exceeds a certain threshold (e.g., <=50K or >50K), 
+Which will help to identify the factors that contribute to higher incomes.
 
+Data:---
+Age: The age of an employee
+Work-class: Profession category 
+Final_census : Census(population of the country)
+Education: Type of last (max) Education
+Education_num: Years spend on studies
+ Marital Status: Person married or not
+Occupation: Person 
+Relationship: Bounded by any relation or dependent 
+Race: which ethnicity belongs to the employee 
+Gender: gender of the employee
+Capital-gain: Capital gain refers to the profit earned when selling a capital asset, such as stocks, real estate, or valuable possessions. 
+It represents the difference between the selling price of the asset and its original purchase price.
+Capital-loss: Capital loss refers to the financial loss incurred when selling a capital asset at a price lower than its original purchase price. 
+It represents the negative difference between the selling price and the purchase price of the asset.
+Hours/week : How many working hours in a week
+Country : Country where it belongs
+Income threshold(Target Column) : two range of Income one is <=50k and >50K
