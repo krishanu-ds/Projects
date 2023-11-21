@@ -1,1 +1,8 @@
+>Load any 1000 pages pdf and create a data frame of first 100 pages and extract human names and also mask the names (First and last letter  should not be masked).
+Expected output:
 
+| page number | page content | masked content | Extracted Names |
+|-------------|--------------|-----------------|------------------|
+| 1           | we are group of 4 people; Narendra was one who is from another city... | we are group of 4 people; N******a was one who is from another city... | Narendra |
+| 2           | ...            | ...             | ...            |
+| ...         | ...            | ...             | ...            |
